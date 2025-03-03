@@ -1,0 +1,11 @@
+ping
+tracert
+ipconfig
+ipconfig /all
+ipconfig /displaydns
+ipconfig /flushdns
+ipconfig /release
+ipconfig /renew
+arp -a
+arp -d
+netsh interface ip deletearpcache

@@ -1,0 +1,7 @@
+A: nom machine /adresse IP4 (forward lookuup zone)
+AAAA: nom machine /adresse IP6
+CNAME : additionale name record for  machine
+MX : mail server in the network LAN (nom et @)
+NS :  other dns server in the network lan (nom et @)
+HINF : host information ( os , cpu etc )pour un record A ou AAAA
+PTR : contraire de A (reverse lookup zone)
