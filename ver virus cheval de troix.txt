@@ -1,0 +1,28 @@
+-----------Virus---------------------------------
+
+-Un virus informatique se fixe sur un programme ou un fichier à partir duquel il peut se propager d'un ordinateur à l'autre, semant des infections partout où il passe. 
+-Certains virus ont seulement des effets légèrement dérangeants, tandis que d'autres peuvent endommager votre matériel, vos logiciels ou vos fichiers. 
+Presque tous les virus sont inclus dans un fichier exécutable, ce qui signifie que le virus peut être présent sur votre ordinateur mais en réalité, 
+il ne peut pas l'infecter si vous n'exécutez pas ou n'ouvrez pas le programme. 
+-Il est important de noter qu'un virus ne peut pas se répandre sans une intervention humaine, comme l'exécution d'un programme infecté. 
+-Les gens contribuent à la propagation d'un virus informatique, la plupart du temps sans le savoir, en partageant des fichiers infectieux 
+ou en envoyant des messages électroniques avec des pièces jointes contenant le virus.
+---------------------------VER------------------------------------------
+
+-Un ver est similaire à un virus par sa conception. Il est considéré comme étant une sous-classe de virus. 
+-Les vers se propagent d'un ordinateur à un autre, mais à l'inverse des virus, ils sont capables de voyager sans intervention humaine. 
+-Un ver profite des fonctions de transfert d'informations ou de fichiers de votre système, qui lui permettent de voyager sans intervention. 
+-Le plus grand danger que représente un ver est sa capacité à se reproduire lui-même dans votre système et, 
+au lieu d'expédier un seul ver, votre ordinateur peut en expédier des centaines ou des milliers de copies, générant un effet dévastateur. 
+-Par exemple, un ver peut envoyer une copie de lui-même à toutes les personnes répertoriées dans votre carnet d'adresses électroniques. 
+Ensuite, le ver se reproduit et s'expédie lui-même à toutes les personnes du carnet d'adresses de chaque destinataire, et le phénomène se poursuit indéfiniment. 
+-En raison de ses capacités à se répliquer et à voyager à travers les réseaux, le ver a pour effet de consommer trop de mémoire système (ou de bande passante ),
+ce qui sature les serveurs les ordinateurs  qui cessent alors de répondre. 
+-Dans les attaques de ver les plus récentes, comme le fameux .Blaster Worm., 
+le ver a été conçu pour ouvrir un tunnel dans votre système, permettant à des utilisateurs malveillants de contrôler votre ordinateur à distance.
+-------------------------cheval de Troie--------------------------------------------------
+
+Un cheval de Troie n'est pas un virus. C'est un programme de destruction qui a l'apparence d'une application légitime. 
+À l'inverse des virus, les chevaux de Troie ne se répliquent pas eux-mêmes, mais ils peuvent être tout aussi destructeurs. 
+Les chevaux de Troie ouvrent également une porte d'entrée clandestine dans votre ordinateur pour donner l'accès à des programmes ou utilisateurs malveillants, 
+ce qui leur permet de dérober vos informations personnelles et confidentielles.
